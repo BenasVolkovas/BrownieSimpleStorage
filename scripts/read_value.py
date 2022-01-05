@@ -6,5 +6,6 @@ def read_contract():
     simpleStorage = SimpleStorage[-1]
     print(simpleStorage.retrieve())
 
+
 def main():
     read_contract()
